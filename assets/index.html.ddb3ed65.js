@@ -1,0 +1,1 @@
+const t={key:"v-8daa1a0e",path:"/",title:"\u9996\u9875",lang:"zh-CN",frontmatter:{home:!0,title:"\u9996\u9875",actions:[{text:"Java",link:"/java/",type:"primary"}],footer:"Copyright \xA9 2021 TDSAST.ORG"},excerpt:"",headers:[],filePathRelative:"README.md",git:{updatedTime:1639131559e3,contributors:[{name:"Taoning Ge",email:"gtn1024o@outlook.com",commits:2}]}};export{t as data};
