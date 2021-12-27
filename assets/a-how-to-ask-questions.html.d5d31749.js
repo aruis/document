@@ -1,0 +1,1 @@
+const t={key:"v-49c07f90",path:"/articles/a-how-to-ask-questions.html",title:"\u5982\u4F55\u63D0\u95EE",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],filePathRelative:"articles/a-how-to-ask-questions.md",git:{updatedTime:1640615202e3,contributors:[{name:"Taoning Ge",email:"gtn1024o@outlook.com",commits:1}]}};export{t as data};
