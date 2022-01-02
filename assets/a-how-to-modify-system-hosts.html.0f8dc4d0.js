@@ -1,1 +1,0 @@
-const t={key:"v-49201609",path:"/articles/a-how-to-modify-system-hosts.html",title:"\u5982\u4F55\u4FEE\u6539\u7CFB\u7EDF hosts",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],filePathRelative:"articles/a-how-to-modify-system-hosts.md",git:{updatedTime:1639919028e3,contributors:[{name:"Taoning Ge",email:"gtn1024o@outlook.com",commits:1}]}};export{t as data};
