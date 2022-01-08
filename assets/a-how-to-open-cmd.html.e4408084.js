@@ -1,0 +1,1 @@
+const t={key:"v-2ab6d3f2",path:"/articles/a-how-to-open-cmd.html",title:"\u5982\u4F55\u6253\u5F00 Windows \u547D\u4EE4\u884C",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1641617757e3,contributors:[{name:"Taoning Ge",email:"gtn1024o@outlook.com",commits:1}]},filePathRelative:"articles/a-how-to-open-cmd.md"};export{t as data};
