@@ -1,0 +1,1 @@
+const t={key:"v-2b2706a1",path:"/articles/a-how-to-get-chsi-code.html",title:"\u5982\u4F55\u83B7\u5F97\u5B66\u4FE1\u7F51\u9A8C\u8BC1\u7801",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1641806295e3,contributors:[{name:"Taoning Ge",email:"gtn1024o@outlook.com",commits:1}]},filePathRelative:"articles/a-how-to-get-chsi-code.md"};export{t as data};
