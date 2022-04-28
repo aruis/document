@@ -1,1 +1,0 @@
-const t={key:"v-2557ea91",path:"/articles/a-basic-os.html",title:"\u64CD\u4F5C\u7CFB\u7EDF",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1641617757e3,contributors:[{name:"Taoning Ge",email:"gtn1024o@outlook.com",commits:1}]},filePathRelative:"articles/a-basic-os.md"};export{t as data};
