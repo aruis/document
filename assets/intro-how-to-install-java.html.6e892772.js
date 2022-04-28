@@ -1,1 +1,0 @@
-const t={key:"v-fe7b95f6",path:"/java/intro-how-to-install-java.html",title:"\u5982\u4F55\u5B89\u88C5 Java",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651107225e3,contributors:[{name:"Taoning Ge",email:"gtn1024o@outlook.com",commits:4}]},filePathRelative:"java/intro-how-to-install-java.md"};export{t as data};
