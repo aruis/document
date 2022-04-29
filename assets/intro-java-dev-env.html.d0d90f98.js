@@ -1,1 +1,0 @@
-const a={key:"v-d0747c0c",path:"/java/intro-java-dev-env.html",title:"Java \u5F00\u53D1\u73AF\u5883\u914D\u7F6E",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651144716e3,contributors:[{name:"Taoning Ge",email:"gtn1024o@outlook.com",commits:1}]},filePathRelative:"java/intro-java-dev-env.md"};export{a as data};
